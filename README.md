@@ -23,7 +23,5 @@ npm run build
 ### Start the app
 
 ```shell
-npm run start
+npm run dev
 ```
-
-### I'll see you in the next one! 🚀
