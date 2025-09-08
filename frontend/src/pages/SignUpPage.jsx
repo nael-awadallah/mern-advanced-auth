@@ -7,7 +7,7 @@ import Input from "../components/Input";
 import PasswordStrengthMeter from "../components/PasswordStrengthMeter";
 import { useAuthStore } from "../store/authStore";
 
-const SingUpPage = () => {
+const SignUpPage = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -82,4 +82,4 @@ const SingUpPage = () => {
   );
 };
 
-export default SingUpPage;
+export default SignUpPage;
